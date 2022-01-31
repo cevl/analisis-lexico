@@ -1,0 +1,41 @@
+Cada linea debe de terminar con un signo de puntuación, los signos de puntuación son los siguientes:
+':': 'colon'
+';': 'semi-colon'
+'.': 'dot'
+',': 'comma'
+'(': 'Open round bracket'
+')': 'Close round bracket'
+'[': 'Open square bracket'
+']': 'Close square bracket'
+'{': 'Open curly bracket'
+'}': 'Close curly bracket'
+
+Las variables deben ser declaradas antes de ser utilizadas.
+
+Para declarar variables se sigue la siguiente estructura:
+Tipo > Nombre > Operador de asignacion > valor > punto y coma
+Donde la asignacion es opcional y el valor a asignar puede ser una expresion.
+
+
+Los tipos de datos son:
+'ent': 'integer type'
+'flot': 'Floating point'
+'car': 'Character type'
+
+Los operadores son:
+'=': 'Assignment op'
+'+': 'Addition op'
+'-': 'Subtraction op'
+'/': 'Division op'
+'*': 'Multiplication op'
+'<': 'Lessthan op'
+'>': 'Greaterthan op'
+
+Los strings deben ser encritos entre comillas dobles "Asi".
+
+
+Ejemplo de asignacion:
+car myString = "Cualquier valor" ;
+
+Ejemplo de operacion:
+ent cantidad = x + 25 ;
